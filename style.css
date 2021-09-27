@@ -1,0 +1,54 @@
+/* button {
+    width: 150px;
+    padding: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: solid 2px black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.smallbox {
+    min-width: 30vw;
+    border: solid 5px red;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+} */
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputbox{
+    height: 30px;
+}
+
+
+.smallbox {
+    min-width: 30vw;
+    border: solid 5px red;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
